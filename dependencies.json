@@ -6,7 +6,8 @@
             "springCloudVersion": "Greenwich.SR1",
             "graphqlJavaVersion": "12.0",
             "graphqlSpringVersion": "1.0",
-            "snakeYamlVersion": "1.24"
+            "snakeYamlVersion": "1.24",
+            "braveInstrumentationVersion": "5.6.3"
         },
         "plugin": {
             "_comment": "gradle plugin versions",
@@ -18,6 +19,7 @@
             "jenkinsPluginVersion": "1.3.6"
         },
         "groovy": {
+            "_comment": "groovy versions",
             "groovyAllVersion": "2.5.7",
             "spockVersion": "1.3-groovy-2.5"
         }
